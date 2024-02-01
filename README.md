@@ -1,7 +1,10 @@
 # go-learning
 
-each program run comand:
-go run <file_name>
+# each program run comand:
+- go run <file_name>
+
+# you want to save the program as an executable, run below comand:
+- go build <file_name>
 
 # Formatting Verbs
 
